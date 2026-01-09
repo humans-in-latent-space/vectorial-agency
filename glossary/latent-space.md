@@ -1,4 +1,5 @@
 ## Latent Space
+### A Topology of Thought
 
 **Latent Space** is the mathematical foundation of every Large Language Model. 
 During training, a Transformer model converts the *tokens* (roughly corresponding to words or parts of words) discovered in billions of documents into *embeddings*. 
