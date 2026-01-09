@@ -1,4 +1,5 @@
-## Vectorial Agency: The Kantian Turn
+## Vectorial Agency
+### The Kantian Turn
 
 By **Agency**, I mean maturity and autonomy in a nearly Kantian sense—the human capacity to think and decide with intent. 
 This is inherently demanding. As Kant suggested, it requires the *courage* (*“Mut”*) to use one’s own understanding.
